@@ -7,3 +7,6 @@ This repository is where I practice and learn Git step by step. I previolsy open
 
 ##
 Demo again 
+
+### Feature Branch Practice
+Testing how branches work before merging into main.
